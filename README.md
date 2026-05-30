@@ -15,7 +15,7 @@
 | **Written On** | May 28, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/endless-nights-with-you/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [License this song: Endless Nights With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-nights-with-you/) |
+| **Get License** | [Secure Licensing Rights for Endless Nights With You](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/endless-nights-with-you/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `1cbee0d04a907ea4c4c6c2f79212560ff38b50b190e1b8e0ce654d84ee94bb33` |
 | **Timestamp** | May 30, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.

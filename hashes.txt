@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Endless Nights With You
+
+This log tracks the cryptographic history and versioning for the song **Endless Nights With You** (endless-nights-with-you).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-30T13:09:15.892590 | `v1` | `1cbee0d04a907ea4c4c6c2f79212560ff38b50b190e1b8e0ce654d84ee94bb33` | `d35c31c53539b794da8ee2ea2fa8450560732f7a79c2c6bcc8559372aedabcde` | `2026-05-30_endless-nights-with-you-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
